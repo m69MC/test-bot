@@ -1,2 +1,1 @@
-# test-bot
-test bots for discord
+# bot
